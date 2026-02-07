@@ -1,0 +1,17 @@
+Assignment 4: Graph, BFS and DFS Algorithms
+Course: CS 2055 (Algorithms and Data Structures) — Academic Year 2025–2026
+Type: Individual Work (IW) | Language: Java or C++ | Submission: Report + GitHub
+Overview
+In this assignment you will implement a small but complete graph toolkit and use it to solve problems with
+Breadth-First Search (BFS) and Depth-First Search (DFS). You must design a clean Graph API, choose an
+appropriate internal representation, handle edge cases, and justify time/space complexity.
+Learning outcomes
+• Choose appropriate data structures and algorithms for storing and processing data (graphs).
+• Implement BFS and DFS correctly and efficiently on multiple graph representations.
+• Analyze runtime performance in terms of input size (|V|, |E|).
+• Write clean, testable code and explain your solution during code defense.
+Rules and constraints
+• Do not use external graph libraries (e.g., NetworkX, JGraphT). You may use standard collections.
+• Your solution must compile and run from the command line (or via an IDE project) without manual steps.
+• Traversal output must be deterministic (define and document how neighbors are ordered).
+• Late submissions are not accepted. You must be ready for oral code defense.
