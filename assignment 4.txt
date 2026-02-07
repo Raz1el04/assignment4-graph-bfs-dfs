@@ -1,17 +1,17 @@
-Assignment 4: Graph, BFS and DFS Algorithms
-Course: CS 2055 (Algorithms and Data Structures) — Academic Year 2025–2026
-Type: Individual Work (IW) | Language: Java or C++ | Submission: Report + GitHub
-Overview
-In this assignment you will implement a small but complete graph toolkit and use it to solve problems with
-Breadth-First Search (BFS) and Depth-First Search (DFS). You must design a clean Graph API, choose an
-appropriate internal representation, handle edge cases, and justify time/space complexity.
-Learning outcomes
-• Choose appropriate data structures and algorithms for storing and processing data (graphs).
-• Implement BFS and DFS correctly and efficiently on multiple graph representations.
-• Analyze runtime performance in terms of input size (|V|, |E|).
-• Write clean, testable code and explain your solution during code defense.
-Rules and constraints
-• Do not use external graph libraries (e.g., NetworkX, JGraphT). You may use standard collections.
-• Your solution must compile and run from the command line (or via an IDE project) without manual steps.
-• Traversal output must be deterministic (define and document how neighbors are ordered).
-• Late submissions are not accepted. You must be ready for oral code defense.
+Task 4: Graph, BFS and DFS Techniques
+Course: CS 2055 (Data Structures and Algorithms) — Academic Year 2025–2026
+Type: Solo Task (ST) | Language: Java or C++ | Submission: Document + GitHub
+Summary
+In this task, you will create a compact yet comprehensive graph toolkit and utilize it to address problems with
+Breadth-First Search (BFS) and Depth-First Search (DFS). You need to create a streamlined Graph API, select an
+suitable internal modeling, manage edge cases, and explain time/space complexity.
+Results of education
+• Select suitable data structures and algorithms for managing and handling data (graphs).
+• Accurately and efficiently execute BFS and DFS on various graph representations.
+• Evaluate runtime efficiency based on input dimensions (|V|, |E|).
+• Create well-structured, testable code and articulate your reasoning during code review.
+Guidelines and limitations
+• Avoid utilizing external graph libraries (e.g., NetworkX, JGraphT). It is permissible to utilize standard collections.
+• Your solution should compile and execute from the command line (or through an IDE project) without any manual steps.
+• The output of traversal should be consistent (establish and record the order of neighboring elements).
+• Submissions made after the deadline will not be accepted. You need to prepare for defending your code orally
